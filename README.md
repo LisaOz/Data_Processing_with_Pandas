@@ -34,9 +34,8 @@ To run this project locally, follow these steps:
     ```bash
     pip install pandas
     ```
-3. **Prepare Data**: Place your CSV files in the project directory to make them accessible to the script.
-4. **Run the Script**: Execute the script in JupyterLab or any Python environment to process the data and view outputs for each step.
-5. **View Exported Files**: Modified CSV files will be saved in a zipped folder within the project directory after processing.
+3. **Run the Script**: Execute the script in JupyterLab or any Python environment to process the data and view outputs for each step.
+4. **View Exported Files**: Modified CSV files will be saved in a zipped folder within the project directory after processing.
 
 
 ## License
